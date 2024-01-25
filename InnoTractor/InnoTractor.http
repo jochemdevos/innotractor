@@ -1,0 +1,6 @@
+@InnoTractor_HostAddress = http://localhost:5166
+
+GET {{InnoTractor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
